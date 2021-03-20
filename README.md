@@ -1,2 +1,2 @@
-# Projeto_Instagram
- Projeto de clone da interface do Instagram, utilizando somente HTML5 e CSS
+# Project_Instagram
+  Project of clone Instagram interface, using HTML5 and CSS3
